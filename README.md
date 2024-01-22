@@ -1,12 +1,12 @@
 # 회칙
 
 ## 개요
-> 1. 조직관리 및 구성
-> 2. 모임
-> 3. 회비 관리
-> 4. 회비 지출
-> 5. 멤버의 탈퇴
-> 6. 모임의 해산
+> [1. 조직관리 및 구성](https://shinwoosai.github.io/group_rule/#1-%EC%A1%B0%EC%A7%81%EA%B4%80%EB%A6%AC-%EB%B0%8F-%EA%B5%AC%EC%84%B1) <br>
+> [2. 모임의 주최](https://shinwoosai.github.io/group_rule/#2-%EB%AA%A8%EC%9E%84%EC%9D%98-%EC%A3%BC%EC%B5%9C) <br>
+> [3. 회비 관리](https://shinwoosai.github.io/group_rule/#3-%ED%9A%8C%EB%B9%84-%EA%B4%80%EB%A6%AC) <br>
+> [4. 회비 지출](https://shinwoosai.github.io/group_rule/#4-%ED%9A%8C%EB%B9%84-%EC%A7%80%EC%B6%9C) <br>
+> [5. 멤버의 탈퇴](https://shinwoosai.github.io/group_rule/#5-%EB%A9%A4%EB%B2%84%EC%9D%98-%ED%83%88%ED%87%B4) <br>
+> [6. 모임의 해산](https://shinwoosai.github.io/group_rule/#5-%EB%A9%A4%EB%B2%84%EC%9D%98-%ED%83%88%ED%87%B4) <br>
 
 <br>
 
@@ -137,14 +137,14 @@
 ## 4. 회비 지출
 
 ### 4.1. 생일
-당사자의 생일 시 생일 축하금 50,000원이 카카오페이로 지급됩니다.
+당사자의 생일 시 생일 축하금 50,000원이 카카오페이로 지급됩니다.<br>
 <span style="color:red">※ 카카오페이를 원치 않는 경우 생일 축하금을 받을 계좌를 회장에게 별도로 알려주실 경우 해당 계좌로 생일 축하금이 지급됩니다.</span>
 <!-- <p>$\scr{\color{#E01515}※\ 카카오페이를\ 원치\ 않는\ 경우\ 생일\ 축하금을\ 받을\ 계좌를\ 회장에게\ 별도로\ 알려주실\ 경우\ 해당\ 계좌로\ 생일\ 축하금이\ 지급됩니다.}$</p> -->
 
 <br>
 
 ### 4.2. 정기 모임
-정기모임은 총 멤버수 × 30,000원이 지출됩니다.
+정기모임은 총 멤버수 × 30,000원이 지출됩니다.<br>
 <span style="color:red">※ 참석자의 수와 무관하게 지출되는 금액이며 비용이 초과되는 경우 추과분은 모임 참석자의 1/N으로 각자 지출됩니다.</span>
 <!-- <p>$\rm{\color{#E01515}※\ 참석자의\ 수와\ 무관하게\ 지출되는\ 금액이며\ 비용이\ 초과되는\ 경우\ 초과분은\ 모임\ 참석자의\ 1/N으로\ 각자\ 지출됩니다.}$</p> -->
 
