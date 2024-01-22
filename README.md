@@ -12,7 +12,7 @@
 <br>
 
 <details>
-  <summary> <h2></h2>1. 조직관리 및 구성</h2></summary>
+  <summary> <h2>1. 조직관리 및 구성</h2></summary>
 <!-- ## 1. 조직관리 및 구성 -->
   
 <h3> 1.1.  조직구성 </h3>
